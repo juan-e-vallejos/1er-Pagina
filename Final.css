@@ -1,0 +1,75 @@
+.titulos{
+    font-size: 70px;
+    color: darkred;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 35%;
+    
+    
+}
+.fondo{
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.Icono1{
+   max-width: 30px;
+   max-height: 30px;
+}
+
+
+
+
+.gtx{
+    margin: 30px;
+    
+}
+.monitores{
+    margin: 30px;
+}
+
+.aside{
+    float: right;
+}
+
+div.contenedor {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+   
+  div.contenedor.gtx {
+    float: left;
+    width: 30%;
+  }
+  div.contenedor.monitores{
+    float: left;
+    width: 30%;
+  }
+   
+  div.contenedor.aside {
+    
+    margin-top: 50px;
+    margin-bottom: 500px  ;
+    margin-right: 15px;
+    
+    float: right;
+    
+    
+  }
+
+
+.form{
+  margin-top: 150px;
+  float: left;
+  margin-right: 10px;
+  color: white;
+
+}
+
+
+.derechos{
+  align-content: center;
+  text-align: center;
+  color: wheat;
+}
